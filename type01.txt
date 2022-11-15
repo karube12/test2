@@ -1,1 +1,2 @@
+type01.txt を test2で修正
 type01.txt 追加
